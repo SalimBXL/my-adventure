@@ -1,0 +1,88 @@
+{
+    "info": {
+        "name": "Name of the adventure",
+        "description": "Description of the adventure",
+        "image": "",
+        "author": {
+            "fullname": "Author Name",
+            "email": "author@email.com"
+        },
+        "update": "2002-02-19"
+    },
+    "references": [
+        {
+            "reference": "001",
+            "locations": {
+                "name": "This is the real location name",
+                "picture": "",
+                "location": {
+                    "coord1": "",
+                    "coord2": ""
+                }
+            },
+            "chapter": {
+                "title": "This is a a title",
+                "image": "",
+                "text": "This is a text for this chapter."
+            },
+            "question": {
+                "image": "",
+                "text": "This is a question.",
+                "answers": [
+                    {
+                        "text": "This is on possible answer",
+                        "image": "",
+                        "target": "002"
+                    },
+                    {
+                        "text": "This is another possible answer",
+                        "image": "",
+                        "target": "003"
+                    },
+                    {
+                        "text": "And another possible answer",
+                        "image": "",
+                        "target": "004"
+                    }
+                ]
+            }
+        },
+        {
+            "reference": "002",
+            "locations": {
+                "name": "This is the real location name",
+                "picture": "",
+                "location": {
+                    "coord1": "",
+                    "coord2": ""
+                }
+            },
+            "chapter": {
+                "title": "This is a a title",
+                "image": "",
+                "text": "This is a text for this chapter."
+            },
+            "question": {
+                "image": "",
+                "text": "This is a question.",
+                "answers": [
+                    {
+                        "text": "This is on possible answer",
+                        "image": "",
+                        "target": "002"
+                    },
+                    {
+                        "text": "This is another possible answer",
+                        "image": "",
+                        "target": "003"
+                    },
+                    {
+                        "text": "And another possible answer",
+                        "image": "",
+                        "target": "004"
+                    }
+                ]
+            }
+        }
+    ]
+}
