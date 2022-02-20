@@ -7,6 +7,7 @@
             "fullname": "Author Name",
             "email": "author@email.com"
         },
+        "start-reference": "001",
         "update": "2002-02-19"
     },
     "references": [
