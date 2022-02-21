@@ -6,8 +6,20 @@
 
 }
 
-.Home-image {
+.Home-image, .Home-description {
+    border: 1px solid darkslategrey;
+    border-radius: 10px;
+    width: 95%;
+    max-width: 991px;
+}
 
+.Home-image {
+    max-height: 548px;
+}
+
+.Home-description {
+    background-color: whitesmoke;
+    color: darkslategrey;
 }
 
 .Home-description-title {

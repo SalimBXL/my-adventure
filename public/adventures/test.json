@@ -1,11 +1,11 @@
 {
     "info": {
-        "name": "Name of the adventure",
-        "description": "Description of the adventure",
-        "image": "",
+        "name": "My Fabulous Adventure!",
+        "description": "A wonderfull adventure where you are the true hero of the story.",
+        "image": "https://gamebooknews.com/wp-content/uploads/2017/03/YATH1.jpg",
         "author": {
-            "fullname": "Author Name",
-            "email": "author@email.com"
+            "fullname": "Salim",
+            "email": "salim@email.com"
         },
         "start-reference": "001",
         "update": "2002-02-19"

@@ -6,7 +6,7 @@ const Home = ({title, description, image}) => {
 
     return <div>
         {image && <img src={image} alt="title" className="Home-image" />}
-        <summary>
+        <summary className="Home-description">
             <h3 className="Home-description-title">Description</h3>
             <p className="Home-description-text">{description}</p>
         </summary>
